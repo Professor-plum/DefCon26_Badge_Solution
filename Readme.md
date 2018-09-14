@@ -106,7 +106,7 @@ ciphertext_bits = '00' + format(ciphertext_num, "0b")
 
 If done correctly the finally message in the Arcade will show `You've figured out the secret to life!`. As you may have guessed, this is a Hitchhiker's Guide to the Galaxy reference. The seed that is used by the LSFR 8 decode is 0x42. FYI: It isn't displayed anywhere but when the hex string is decoded the result is `Tymkrs + Wire + Ninja wuz here!`
 
-Many thanks go out to @Tymkrs, @wchill, @braz, @gl3n, @zevlag, @negative_alpha and others who helped put all the pieces together.
+Many thanks go out to @Tymkrs, @wchill, @raldi, @gl3n, @zevlag, @negative_alpha and others who helped put all the pieces together.
 
 ```mermaid
 graph TD
